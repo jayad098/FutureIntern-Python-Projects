@@ -1,4 +1,4 @@
-# FutureIntern-Python-Projects
+# Internship_Tasks
 
 🚀 Python Developer Internship @ FutureIntern
 
